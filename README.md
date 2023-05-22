@@ -11,3 +11,7 @@
 3. [cloom_clock](https://github.com/OldMetalmind/cloom_clock)
     
     ![](https://docs.flutter.dev/assets/images/clock/cloom.gif)
+
+4. [humanbeans_clock](https://github.com/brestnichki/humanbeans-clock)
+
+    ![](https://docs.flutter.dev/assets/images/clock/humanbeans.gif)
