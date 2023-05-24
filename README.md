@@ -19,3 +19,7 @@
 5. [agent_clock](https://github.com/kruegerrobotics/flutter_agent_clock)
 
 6. [animal_clock](https://github.com/seiwonlee/animal_clock)
+
+7. [ant_clock](https://github.com/StuartApp/Flutter-clock-challenge)
+
+    ![](https://github.com/StuartApp/Flutter-clock-challenge/blob/master/assets/thunderstorm.gif?raw=true)
