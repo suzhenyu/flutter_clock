@@ -23,3 +23,7 @@
 7. [ant_clock](https://github.com/StuartApp/Flutter-clock-challenge)
 
     ![](https://github.com/StuartApp/Flutter-clock-challenge/blob/master/assets/thunderstorm.gif?raw=true)
+
+8. [barbar_clock](https://github.com/aednlaxer/flutter-clock-challenge-barbar)
+
+    ![](https://github.com/aednlaxer/flutter-clock-challenge-barbar/blob/master/content/clockface.gif?raw=true)
