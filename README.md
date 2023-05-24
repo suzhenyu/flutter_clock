@@ -17,4 +17,5 @@
     ![](https://docs.flutter.dev/assets/images/clock/humanbeans.gif)
 
 5. [agent_clock](https://github.com/kruegerrobotics/flutter_agent_clock)
-    
+
+6. [animal_clock](https://github.com/seiwonlee/animal_clock)
