@@ -46,3 +46,7 @@
 11. [dj_clock](https://github.com/EriaWist/flutter_clock)
 
     ![](https://github.com/EriaWist/flutter_clock/blob/master/15903782531361590378253138.gif?raw=true)
+
+12. [dots_clock](https://github.com/kainsteffen/dots-clock#final-thoughts)
+    
+    ![](https://github.com/kainsteffen/dots-clock/blob/master/images/dots_clock_standard.gif?raw=true)
