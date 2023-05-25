@@ -1,0 +1,33 @@
+name: dj_clock
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_clock_helper:
+    git:
+      url: git@github.com:domesticmouse/flutter_clock.git
+      path: flutter_clock_helper
+  cupertino_icons: ^1.0.2
+  flukit: ^1.0.2
+  sleek_circular_slider: ^1.0.7
+  volume_watcher: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+  fonts:
+    - family: CuteFont
+      fonts:
+        - asset: fonts/CuteFont-Regular.ttf
