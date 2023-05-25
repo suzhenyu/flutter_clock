@@ -50,3 +50,7 @@
 12. [dots_clock](https://github.com/kainsteffen/dots-clock#final-thoughts)
     
     ![](https://github.com/kainsteffen/dots-clock/blob/master/images/dots_clock_standard.gif?raw=true)
+
+13. [neumorphic_clock](https://github.com/orestesgaolin/neumorphic_flutter_clock) 新拟态时钟
+
+    ![](https://github.com/orestesgaolin/neumorphic_flutter_clock/blob/master/analog_clock/clock.gif?raw=true)
