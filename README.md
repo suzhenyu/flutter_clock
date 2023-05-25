@@ -38,3 +38,7 @@
 9. [boating_clock](https://github.com/SpiciedCrab/Boating)
 
     ![](https://github.com/SpiciedCrab/Boating/blob/master/quickSnapshot.gif?raw=true)
+
+10. [circle_clock](https://github.com/NotThatBowser/flutter_clock)
+
+    ![](https://camo.githubusercontent.com/29ff82000029ae832ac436dc13c29f4eb03ae7dfee150fe150aa0d72a39d5a34/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f664f6d487939665264515a4a6d67585556512f67697068792e676966)
