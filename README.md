@@ -58,3 +58,7 @@
 14. [freehand_clock](https://github.com/thayesx/freehand_clock)
 
     ![](https://github.com/thayesx/freehand_clock/blob/master/tylerhayes_clock/assets/screenshots/freehand_clock-light_preview_img.PNG?raw=true)
+
+15. [generative_clock](https://github.com/Fabian-Stein/flutterClock)
+
+    ![](https://github.com/Fabian-Stein/flutterClock/blob/master/BlackAndWhite.png?raw=true)
