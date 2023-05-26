@@ -62,3 +62,8 @@
 15. [generative_clock](https://github.com/Fabian-Stein/flutterClock)
 
     ![](https://github.com/Fabian-Stein/flutterClock/blob/master/BlackAndWhite.png?raw=true)
+
+16. [infinity_clock](https://github.com/AkashDivya/infinity_flutter_clock)
+
+    ![](https://github.com/AkashDivya/infinity_flutter_clock/blob/master/media/flutter_clock_infinity_dark.png?raw=true)
+    
