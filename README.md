@@ -54,3 +54,7 @@
 13. [neumorphic_clock](https://github.com/orestesgaolin/neumorphic_flutter_clock) 新拟态时钟
 
     ![](https://github.com/orestesgaolin/neumorphic_flutter_clock/blob/master/analog_clock/clock.gif?raw=true)
+
+14. [freehand_clock](https://github.com/thayesx/freehand_clock)
+
+    ![](https://github.com/thayesx/freehand_clock/blob/master/tylerhayes_clock/assets/screenshots/freehand_clock-light_preview_img.PNG?raw=true)
