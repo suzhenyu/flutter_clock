@@ -70,4 +70,8 @@
 17. [iso_clock](https://github.com/cookmscott/FlutterClockChallenge)
 
     ![](https://github.com/cookmscott/FlutterClockChallenge/blob/master/iso_clock_light_theme.gif?raw=true)
+
+18. [lofi_clock](https://github.com/nosliwmichael/flutter_clock)
+
+    ![](https://github.com/nosliwmichael/flutter_clock/blob/master/city_clock/Lo-Fi_clock.png?raw=true)
     

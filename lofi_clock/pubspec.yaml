@@ -1,0 +1,82 @@
+name: lofi_clock
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_clock_helper:
+    git:
+      url: git@github.com:domesticmouse/flutter_clock.git
+      path: flutter_clock_helper
+  cupertino_icons: ^1.0.2
+  spritewidget:
+  marquee: ^1.3.1
+  global_configuration: ^1.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    # Config
+    - assets/cfg/
+    # Sprites
+    - assets/sprites/spritesheet.png
+    - assets/sprites/spritesheet.json
+    # Images
+    - assets/images/clouds-0.png
+    - assets/images/clouds-1.png
+    # Load city backdrops
+    - assets/images/city_back/city_back_night.png
+    # Load city foregrounds
+    - assets/images/city_front/city_front_night.png
+    # Load streets
+    - assets/images/streets/street_night.png
+    # Load skies
+    - assets/images/skies/sky_night.png
+    # Load signs
+    - assets/images/signs/sign_night.png
+    # Time Digits
+    - assets/digits/colon.png
+    - assets/digits/hour1-0.png
+    - assets/digits/hour1-1.png
+    - assets/digits/hour1-2.png
+    - assets/digits/hour2-0.png
+    - assets/digits/hour2-1.png
+    - assets/digits/hour2-2.png
+    - assets/digits/hour2-3.png
+    - assets/digits/hour2-4.png
+    - assets/digits/hour2-5.png
+    - assets/digits/hour2-6.png
+    - assets/digits/hour2-7.png
+    - assets/digits/hour2-8.png
+    - assets/digits/hour2-9.png
+    - assets/digits/minute1-0.png
+    - assets/digits/minute1-1.png
+    - assets/digits/minute1-2.png
+    - assets/digits/minute1-3.png
+    - assets/digits/minute1-4.png
+    - assets/digits/minute1-5.png
+    - assets/digits/minute1-6.png
+    - assets/digits/minute2-0.png
+    - assets/digits/minute2-1.png
+    - assets/digits/minute2-2.png
+    - assets/digits/minute2-3.png
+    - assets/digits/minute2-4.png
+    - assets/digits/minute2-5.png
+    - assets/digits/minute2-6.png
+    - assets/digits/minute2-7.png
+    - assets/digits/minute2-8.png
+    - assets/digits/minute2-9.png
+  fonts:
+    - family: Pixel_Text
+      fonts:
+        - asset: assets/fonts/PressStart2P-Regular.ttf
