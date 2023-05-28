@@ -75,3 +75,6 @@
 
     ![](https://github.com/nosliwmichael/flutter_clock/blob/master/city_clock/Lo-Fi_clock.png?raw=true)
     
+19. [paper_clock](https://github.com/ryanjacktaylor/paper_clock)
+
+    ![](https://github.com/ryanjacktaylor/paper_clock/blob/master/Media/Screenshot_1578348810.png?raw=true)
