@@ -1,0 +1,61 @@
+multipass: true
+# full: true
+
+plugins:
+  - removeDoctype: true
+  - removeXMLProcInst: true
+  - removeComments: true
+  - removeMetadata: true
+  - removeXMLNS: false
+  - removeEditorsNSData: true
+  - cleanupAttrs: true
+  - inlineStyles: true
+  - minifyStyles: true
+  - convertStyleToAttrs: true
+  - cleanupIDs: true
+  - prefixIds: true
+  - removeRasterImages: true
+  - removeUselessDefs: true
+  - cleanupNumericValues:
+      floatPrecision: 0
+  - cleanupListOfValues:
+      floatPrecision: 0
+  - convertColors: true
+  - removeUnknownsAndDefaults: true
+  - removeNonInheritableGroupAttrs: true
+  - removeUselessStrokeAndFill: true
+  - removeViewBox: true
+  - cleanupEnableBackground: true
+  - removeHiddenElems: true
+  - removeEmptyText: true
+  - convertShapeToPath: true
+  - convertEllipseToCircle: true
+  - moveElemsAttrsToGroup: true
+  - moveGroupAttrsToElems: true
+  - collapseGroups: true
+  - convertPathData:
+      floatPrecision: 6
+  - convertTransform:
+      floatPrecision: 0
+  - removeEmptyAttrs: true
+  - removeEmptyContainers: true
+  - mergePaths: true
+  - removeUnusedNS: true
+  - sortAttrs: true
+  - sortDefsChildren: true
+  - removeTitle: true
+  - removeDesc: true
+  - removeDimensions: true
+  - removeAttrs: true
+  - removeAttributesBySelector: false
+  - removeElementsByAttr: true
+  - addClassesToSVGElement: true
+  - removeStyleElement: true
+  - removeScriptElement: true
+  - addAttributesToSVGElement: true
+  - removeOffCanvasPaths: true
+  - reusePaths: true
+
+# js2svg:
+#  pretty: false
+#  indent: '  '

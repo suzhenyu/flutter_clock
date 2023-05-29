@@ -1,0 +1,31 @@
+name: analog_clock
+description: Awarded steampunk like, analog clock for Flutter Clock contest.
+version: 1.0.0+1
+repository: https://github.com/tsinis/flutter_clock
+maintainer: Roman Cinis
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  clock: ^1.1.1
+  flare_flutter:
+    git:
+      url: https://github.com/tsinis/Flare-Flutter
+      path: flare_flutter/
+  flutter:
+    sdk: flutter
+  flutter_clock_helper:
+    path: ../flutter_clock_helper
+
+dev_dependencies:
+  dart_code_metrics: ^4.18.0-dev.2
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/FlutterClock.flr
