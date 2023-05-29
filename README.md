@@ -87,3 +87,7 @@
 
     ![](https://github.com/tsinis/flutter_clock/blob/main/previews/preview.jpg?raw=true)
     
+22. [star clock](https://github.com/ciriousjoker/star_clock)
+
+    ![](https://github.com/ciriousjoker/star_clock/blob/master/assets_readme/screenshots/sunny.png?raw=true)
+    
