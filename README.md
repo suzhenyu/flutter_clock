@@ -90,4 +90,7 @@
 22. [star clock](https://github.com/ciriousjoker/star_clock)
 
     ![](https://github.com/ciriousjoker/star_clock/blob/master/assets_readme/screenshots/sunny.png?raw=true)
-    
+
+23. [scenery_clock](https://github.com/Dwite/Scenery-FlutterClock)
+
+    ![](https://github.com/Dwite/Scenery-FlutterClock/blob/master/digital_clock/digital.gif?raw=true)
