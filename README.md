@@ -78,3 +78,7 @@
 19. [paper_clock](https://github.com/ryanjacktaylor/paper_clock)
 
     ![](https://github.com/ryanjacktaylor/paper_clock/blob/master/Media/Screenshot_1578348810.png?raw=true)
+
+20. [tetris_clock](https://github.com/msoftware/flutter_clock) 俄罗斯方块风格
+
+    ![](https://github.com/msoftware/flutter_clock/blob/master/screenshot.png?raw=true)
