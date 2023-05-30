@@ -1,15 +1,19 @@
 # flutter_clock
 学习下 Flutter Clock Challenge 的那些神级实现
 
-1. [flutter_clock](https://github.com/flutter/flutter_clock) 举办方给的示例
+0. [flutter_clock](https://github.com/flutter/flutter_clock) 举办方给的示例
     
     ![](https://github.com/flutter/flutter_clock/blob/master/analog_clock/analog.gif?raw=true)
     
     ![](https://github.com/flutter/flutter_clock/blob/master/digital_clock/digital.gif?raw=true)
 
-2. [flutter_particle_clock](https://github.com/miickel/flutter_particle_clock): 这届的大奖归属
+1. [flutter_particle_clock](https://github.com/miickel/flutter_particle_clock): 这届的大奖归属
     
     ![](https://github.com/miickel/flutter_particle_clock/blob/master/particle-clock-montage-min.png?raw=true)
+
+2. [mechanical_clock](https://github.com/creativecreatorormaybenot/clock)
+
+    ![](https://github.com/creativecreatorormaybenot/clock/raw/screen-captures/showcase.gif)
 
 3. [cloom_clock](https://github.com/OldMetalmind/cloom_clock)
     
