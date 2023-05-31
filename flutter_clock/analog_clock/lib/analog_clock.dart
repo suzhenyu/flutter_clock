@@ -4,7 +4,7 @@
 
 import 'dart:async';
 
-import 'package:flutter_clock_helper/model.dart';
+import 'flutter_clock_helper/model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/semantics.dart';
 import 'package:intl/intl.dart';
@@ -102,14 +102,18 @@ class _AnalogClockState extends State<AnalogClock> {
             // Minute hand.
             highlightColor: const Color(0xFF8AB4F8),
             // Second hand.
-            accentColor: const Color(0xFF669DF6),
-            backgroundColor: const Color(0xFFD2E3FC),
+            colorScheme: Theme.of(context).colorScheme.copyWith(
+                  secondary: const Color(0xFF669DF6),
+                  background: const Color(0xFFD2E3FC),
+                ),
           )
         : Theme.of(context).copyWith(
             primaryColor: const Color(0xFFD2E3FC),
             highlightColor: const Color(0xFF4285F4),
-            accentColor: const Color(0xFF8AB4F8),
-            backgroundColor: const Color(0xFF3C4043),
+            colorScheme: Theme.of(context).colorScheme.copyWith(
+                  secondary: const Color(0xFF8AB4F8),
+                  background: const Color(0xFF3C4043),
+                ),
           );
 
     final time = DateFormat.Hms().format(DateTime.now());

@@ -4,7 +4,7 @@
 
 import 'dart:async';
 
-import 'package:flutter_clock_helper/model.dart';
+import 'flutter_clock_helper/model.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
@@ -30,12 +30,12 @@ final _darkTheme = {
 ///
 /// You can do better than this!
 class DigitalClock extends StatefulWidget {
-  const DigitalClock(this.model);
+  const DigitalClock(this.model, {super.key});
 
   final ClockModel model;
 
   @override
-  _DigitalClockState createState() => _DigitalClockState();
+  State<DigitalClock> createState() => _DigitalClockState();
 }
 
 class _DigitalClockState extends State<DigitalClock> {
